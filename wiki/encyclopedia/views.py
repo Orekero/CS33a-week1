@@ -1,6 +1,6 @@
 from django.shortcuts import render
 
-import markdown
+import markdown2 as markdown
 
 from . import util
 
